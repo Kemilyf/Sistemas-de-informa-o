@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715649793 source:c:\users\aluno.sapiens\documents\algoritimos1\exerciciofile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
